@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming a fullstack developer
 - 🌱 I’m currently learning C#, javascript, HTML, CSS.
-
+- I´m from Sweden
 
